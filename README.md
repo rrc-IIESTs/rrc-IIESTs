@@ -3,14 +3,17 @@
 <h2 align="center">Leetcode Info</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/u/rtrjcn/" target="_blank">
+<!--   <a href="https://leetcode.com/u/rtrjcn/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="leetcode badge 2024 50 gif" height="200" width="200" />
-  </a>
+  </a> -->
   <a href="https://leetcode.com/u/rtrjcn/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="leetcode badge 2024 100 gif" height="200" width="200" />
   </a>
+  <a href="https://leetcode.com/u/rtrjcn/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="leetcode badge 2024 200 gif" height="200" width="200" />
+  </a>
    <a href="https://leetcode.com/u/rtrjcn/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" alt="leetcode badge 2024 100 gif" height="200" width="200" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="leetcode badge 2024 100 gif" height="200" width="200" />
   </a>
 </p>
 <p align="center">
